@@ -4,49 +4,49 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 
 ## Technologies and tools
 
-[<img src="./img/javascript.svg" alt="JavaScript logo" title="JavaScript" width="50em" />][anchor]
+[<img src="./img/javascript.svg" alt="JavaScript logo" title="JavaScript" width="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/typescript.svg" alt="TypeScript logo" title="TypeScript" width="50em" />][anchor]
+[<img src="./img/typescript.svg" alt="TypeScript logo" title="TypeScript" width="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/react.svg" alt="React.js / React Native logo" title="React.js / React Native" height="50em" />][anchor]
+[<img src="./img/react.svg" alt="React.js / React Native logo" title="React.js / React Native" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/html5.svg" alt="HTML5 logo" title="HTML5" height="50em" />][anchor]
+[<img src="./img/html5.svg" alt="HTML5 logo" title="HTML5" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/css3.svg" alt="CSS3 logo" title="CSS3" height="50em" />][anchor]
+[<img src="./img/css3.svg" alt="CSS3 logo" title="CSS3" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/android.svg" alt="Android logo" title="Android" height="50em" />][anchor]
+[<img src="./img/android.svg" alt="Android logo" title="Android" height="50em" />][tech_tools_anchor]
 
-[<img src="./img/redux.svg" alt="Redux logo" title="Redux" height="50em" />][anchor]
+[<img src="./img/redux.svg" alt="Redux logo" title="Redux" height="50em" />][tech_tools_anchor]
 
-[<img src="./img/eslint.svg" alt="ESLint logo" title="ESLint" height="50em" />][anchor]
+[<img src="./img/eslint.svg" alt="ESLint logo" title="ESLint" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/git.svg" alt="git logo" title="git" height="50em" />][anchor]
+[<img src="./img/git.svg" alt="git logo" title="git" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/vscode.svg" alt="Visual Studio Code logo" title="Visual Studio Code" height="50em" />][anchor]
+[<img src="./img/vscode.svg" alt="Visual Studio Code logo" title="Visual Studio Code" height="50em" />][tech_tools_anchor]
 
-[<img src="./img/linux.svg" alt="Linux logo" title="GNU/Linux" height="50em" />][anchor]
+[<img src="./img/linux.svg" alt="Linux logo" title="GNU/Linux" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/macos.svg" alt="MacOS logo" title="React.js / React Native" height="50em" />][anchor]
+[<img src="./img/macos.svg" alt="MacOS logo" title="React.js / React Native" height="50em" />][tech_tools_anchor]
 
 ## What I am (interested in) learning
 
-[<img src="./img/flutter.svg" alt="Flutter logo" title="Flutter" height="50em" />][anchor]
+[<img src="./img/flutter.svg" alt="Flutter logo" title="Flutter" height="50em" />][learning_anchor]
 &nbsp;
-[<img src="./img/kotlin.svg" alt="Kotlin logo" title="Kotlin" height="50em" />][anchor]
+[<img src="./img/kotlin.svg" alt="Kotlin logo" title="Kotlin" height="50em" />][learning_anchor]
 &nbsp;
-[<img src="./img/vuejs.svg" alt="Vue.js logo" title="Vue.js" height="50em" />][anchor]
+[<img src="./img/vuejs.svg" alt="Vue.js logo" title="Vue.js" height="50em" />][learning_anchor]
 &nbsp;
-[<img src="./img/nodejs.svg" alt="Node.js logo" title="Node.js" width="50em" />][anchor]
+[<img src="./img/nodejs.svg" alt="Node.js logo" title="Node.js" width="50em" />][learning_anchor]
 &nbsp;
-[<img src="./img/nextjs.svg" alt="Next.js logo" title="Next.js" height="50em" />][anchor]
+[<img src="./img/nextjs.svg" alt="Next.js logo" title="Next.js" height="50em" />][learning_anchor]
 
-[<img src="./img/graphql.svg" alt="GraphQL logo" title="GraphQL" height="50em" />][anchor]
+[<img src="./img/graphql.svg" alt="GraphQL logo" title="GraphQL" height="50em" />][learning_anchor]
 
-[<img src="./img/mongodb.svg" alt="MongoDB logo" title="MongoDB" height="50em" />][anchor]
+[<img src="./img/mongodb.svg" alt="MongoDB logo" title="MongoDB" height="50em" />][learning_anchor]
 
-[<img src="./img/sass.svg" alt="Sass logo" title="Sass" height="50em" />][anchor]
+[<img src="./img/sass.svg" alt="Sass logo" title="Sass" height="50em" />][learning_anchor]
 &nbsp;
-[<img src="./img/tailwindcss.svg" alt="Tailwind CSS logo" title="Tailwind CSS" height="50em" />][anchor]
+[<img src="./img/tailwindcss.svg" alt="Tailwind CSS logo" title="Tailwind CSS" height="50em" />][learning_anchor]
 
 ## Where to find me
 
@@ -54,4 +54,5 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [![LinkedIn logo](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=FFFFFF "LinkedIn")](https://www.linkedin.com/in/valentinbriand42)
 
-[anchor]: #
+[tech_tools_anchor]: #technologies-and-tools
+[learning_anchor]: #what-i-am-interested-in-learning
