@@ -26,7 +26,7 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 
 [<img src="./img/linux.svg" alt="Linux logo" title="GNU/Linux" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/macos.svg" alt="MacOS logo" title="React.js / React Native" height="50em" />][tech_tools_anchor]
+[<img src="./img/macos.svg" alt="macOS logo" title="macOS" height="50em" />][tech_tools_anchor]
 
 ## What I am (interested in) learning
 
