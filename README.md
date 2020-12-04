@@ -4,9 +4,9 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 
 ## Technologies and tools
 
-[<img src="./img/javascript.svg" alt="JavaScript logo" title="JavaScript" width="50em" />][tech_tools_anchor]
+[<img src="./img/javascript.svg" alt="JavaScript logo" title="JavaScript" height="50em" />][tech_tools_anchor]
 &nbsp;
-[<img src="./img/typescript.svg" alt="TypeScript logo" title="TypeScript" width="50em" />][tech_tools_anchor]
+[<img src="./img/typescript.svg" alt="TypeScript logo" title="TypeScript" height="50em" />][tech_tools_anchor]
 &nbsp;
 [<img src="./img/html5.svg" alt="HTML5 logo" title="HTML5" height="50em" />][tech_tools_anchor]
 &nbsp;
@@ -36,7 +36,7 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="./img/vuejs.svg" alt="Vue.js logo" title="Vue.js" height="50em" />][learning_anchor]
 &nbsp;
-[<img src="./img/nodejs.svg" alt="Node.js logo" title="Node.js" width="50em" />][learning_anchor]
+[<img src="./img/nodejs.svg" alt="Node.js logo" title="Node.js" height="50em" />][learning_anchor]
 
 [<img src="./img/nextjs.svg" alt="Next.js logo" title="Next.js" height="50em" />][learning_anchor]
 &nbsp;
