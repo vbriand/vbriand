@@ -2,8 +2,6 @@
 
 My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
 
-<a name="tech-tools"></a>
-
 ## Technologies and tools
 
 [<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=000000&style=flat-square" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
@@ -20,6 +18,8 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=FFFFFF&style=flat-square" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 
+<a name="learning-now"></a>
+
 [<img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=FFFFFF&style=flat-square" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=FFFFFF&style=flat-square" alt="git logo" title="git" height="25" />][tech_tools_anchor]
@@ -30,9 +30,9 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=FFFFFF&style=flat-square" alt="macOS logo" title="macOS" height="25" />][tech_tools_anchor]
 
-<a name="learning-now"></a>
-
 ## What I am currently learning / improving on
+
+<a name="learning-next"></a>
 
 [<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=FFFFFF&style=flat-square" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 
@@ -40,14 +40,11 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=FFFFFF&style=flat-square" alt="Express.js logo" title="Express.js" height="25" />][learning_now_anchor]
 
-<a name="learning-next"></a>
-
 ## What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=FFFFFF&style=flat-square" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=FFFFFF&style=flat-square" alt="Vue.js logo" title="Vue.js" height="25" />][learning_next_anchor]
-&nbsp;
 
 [<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=FFFFFF&style=flat-square" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 
@@ -63,6 +60,6 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=FFFFFF&style=flat-square" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
-[tech_tools_anchor]: #user-content-tech-tools
-[learning_now_anchor]: #user-content-learning-now
-[learning_next_anchor]: #user-content-learning-next
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
