@@ -4,8 +4,6 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
-<a name="tech-tools"></a>
-
 ## Technologies and tools
 
 <a name="learning-now"></a>
@@ -60,6 +58,6 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
-[tech_tools_anchor]: #tech-tools
+[tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
