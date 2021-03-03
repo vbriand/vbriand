@@ -16,7 +16,7 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=FFFFFF&style=flat-square" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000&style=flat-square" alt="React logo" title="React.js / React Native" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&style=flat-square" alt="React logo" title="React.js / React Native" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=FFFFFF&style=flat-square" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
